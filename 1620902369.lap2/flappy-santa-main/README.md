@@ -1,2 +1,0 @@
-# flappy-santa
-flappy santa
