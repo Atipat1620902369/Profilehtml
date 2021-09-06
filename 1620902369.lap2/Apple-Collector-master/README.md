@@ -1,2 +1,0 @@
-# Apple-Collector
-Apple Collector
