@@ -18,6 +18,7 @@ h1{
 }
 .p-Footer{
     text-align: center;
+    background-color: #FEFDCA;
 }
 .flexbox {
     display: flex;

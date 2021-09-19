@@ -37,6 +37,7 @@ h2{
 }
 .p-Footer{
     text-align: center;
+    background-color: #FEFDCA;
 }
 .flexbox {
     display: flex;
@@ -64,4 +65,8 @@ h2{
     height: 100%;
     padding: 10px;
   }
-  div {border-radius: 17px;}
+  div {border-radius: 17px;
+}
+.table-content{
+    background-color: rgb(238, 190, 136);
+}
