@@ -1,0 +1,93 @@
+/* CSS files --> index.html */
+/* (1) Tag Selector */
+body{
+    background-color: #A5DEE5;   /* Color Palette https://colorhunt.co/ */
+    background-image: url('https://ae01.alicdn.com/kf/HTB1xHOxLFXXXXXZXVXXq6xXFXXXX/HD-WALL-ART.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: #FEFDCA;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+    /*background-color: #FFCFDF;*/
+}
+h4{
+    text-align: center;
+    font-family: Aclonica;
+    font-weight: normal;
+}
+table{
+    width: 100%;
+    text-align: center;
+    background-color: #FEFDCA;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+ 
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: center;
+}
+.p-Name{
+    font-weight:normal;
+}
+.p-Footer{
+    text-align: center;
+}
+ 
+/* (3) Id Selector */       
+#th-Details{
+    text-align: left;
+}
+ 
+/* div */
+.top-container{
+    background-color: #c8f792;
+    text-shadow: 0px -1px 0px rgba(255, 255, 255, 1);
+}
+.table-menu td:hover{
+    background-color: #f7afaf;  
+}
+.table-content h2{
+    background-color: rgb(238, 190, 136);
+}
+.table-content img:hover{
+    background-color: rgb(83, 148, 221);
+}
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 0px -1px;
+  }
+  
+  .item {
+    box-sizing: border-box;
+    width: 25%;
+    margin-bottom: 0px;
+    padding: 0px 1px;
+  }
+  
+  .content {
+    color: #242424;
+    background-color: #FEFDCA;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 10px;
+  }
+  div {border-radius: 17px;}

@@ -1,0 +1,49 @@
+/* CSS files --> contact.html */
+body{
+    background-color: #A5DEE5;
+    background-image: url('https://ae01.alicdn.com/kf/HTB1xHOxLFXXXXXZXVXXq6xXFXXXX/HD-WALL-ART.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+table{
+    width:100%; 
+    text-align: center;
+    background-color: #FEFDCA;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: #E0F9B5;
+}
+.p-Footer{
+    text-align: center;
+}
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 0px -1px;
+  }
+  
+  .item {
+    box-sizing: border-box;
+    width: 25%;
+    margin-bottom: 0px;
+    padding: 0px 1px;
+  }
+  
+  .content {
+    color: #242424;
+    background-color: #FEFDCA;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 10px;
+  }
+  div {border-radius: 17px;}
+  
